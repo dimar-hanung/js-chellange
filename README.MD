@@ -72,7 +72,7 @@ toko = [
 
 Buka `05-error.js`
 
-### 6. Rantai
+### 6. Absurd
 
 Buka `06-absurd.js`
 
