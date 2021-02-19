@@ -89,4 +89,11 @@ Array punya 3 sifat methods, berikan masing-masing 2 contoh penggunaan nya
 - Accessor methods
 - Iteration methods
 
-### 9. bagi array
+### 9. bagi array - convert ke typeScript juga
+
+Buka `09-bagiArray.js`, setiap kelipatan 5, bagi array menjadi array baru
+
+### 10. Gabung Object - convert ke typeScript
+
+Buka `10-gabungObject.js`, Buat function untuk menggabungkan object\
+dan jangan ada error ketika memasukan tipe data salah
